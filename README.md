@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purdator1225
-- 👀 I’m interested in python projects, automation, algorithmic trading, machine learning
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in web development, python projects, automation, 
+- 🌱 I’m currently learning React.js, CSS, python 
 - 💞️ I’m looking to collaborate on TBC
 - 📫 How to reach me email: briansh1225@gmail.com
 
