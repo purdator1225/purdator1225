@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @purdator1225
-- 👀 I’m interested in web development, python projects, automation, 
-- 🌱 I’m currently learning React.js, CSS, python 
-- 💞️ I’m looking to collaborate on TBC
+- 👋 Hi, I’m Brian
+- 👀 I’m interested in front-end development, particularly building Shopify themes and marketing analytics.
+- 🌱 I’m currently and always, learning Javascript. 
+- 💞️ I’m looking for people who need help on Shopify stores
 - 📫 How to reach me email: briansh1225@gmail.com
 
 <!---
